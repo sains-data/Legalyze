@@ -27,9 +27,31 @@ Legalyze dikembangkan menggunakan pendekatan **Medallion Architecture** (Bronze 
 
 ---
 
-## 🎯 Misi Kami
+## 🎯 Tujuan Proyek
 
-- Meningkatkan efisiensi firma hukum melalui analitik berbasis data
-- Menyediakan informasi hukum yang akurat dan terstruktur
-- Mendorong transparansi dan akses keadilan melalui teknologi
+- 📊 Menganalisis performa pengacara berdasarkan beban kerja dan tingkat kepuasan
+- 🔍 Mengidentifikasi tren jenis kasus dan waktu penyelesaiannya
+- 💼 Mendukung keputusan manajerial firma hukum secara real-time
+- 📚 Menyediakan edukasi hukum berbasis data untuk masyarakat
+- 🧭 Menyokong regulator dalam pemantauan kepatuhan dan efisiensi layanan hukum
+
+---
+
+## 👥 Stakeholder Sistem
+
+| Stakeholder | Peran |
+|-------------|-------|
+| Pengacara | Analisis performa & manajemen kasus |
+| Manajer Firma | Perencanaan beban kerja & evaluasi SDM |
+| Legal Analyst | Klasifikasi dan pemetaan data kasus |
+| Tim IT | Pembangunan pipeline & sistem backend |
+| Eksekutif | Strategi firma berbasis insight historis |
+| Regulator & LSM | Pengawasan, kebijakan, dan edukasi hukum publik |
+
+---
+
+## 🧱 Arsitektur Sistem
+
+Legalyze mengimplementasikan pendekatan **Medallion Architecture**:
+
 
