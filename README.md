@@ -64,5 +64,20 @@ Legalyze mengimplementasikan pendekatan **Medallion Architecture**, yang terdiri
 Alur data:  
 **Raw Data** → **Cleaned Data** → **Business-Ready Insight**
 
+---
+
+## 👨‍💻 Tim Pengembang
+
+**JustTech** – Kelompok 21  
+Institut Teknologi Sumatera (ITERA)  
+Mata Kuliah: Data Warehouse (2024/2025)
+
+- Gede Moena (121450014)  
+- Afifah Syaharani (121450097)  
+- Muhammad Regi Abdi Putra Amanta (122450031)  
+- Tria Yunanni (122450062)  
+- Ratu Keisha Jasmine Deanova (122450106)
+
+---
 
 
