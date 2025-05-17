@@ -72,7 +72,7 @@ Alur data:
 Institut Teknologi Sumatera (ITERA)  
 Mata Kuliah: Data Warehouse (2024/2025)
 
-- Gede Moena (121450014) 
+- Gede Moena (121450014) https://github.com/GedeMoenaa
 - Afifah Syaharani (121450097)  
 - Muhammad Regi Abdi Putra Amanta (122450031)  
 - Tria Yunanni (122450062)  
