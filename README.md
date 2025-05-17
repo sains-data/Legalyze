@@ -51,7 +51,7 @@ Legalyze dikembangkan menggunakan pendekatan **Medallion Architecture** (Bronze 
 ## 🧱 Arsitektur Sistem
 
 Legalyze mengimplementasikan pendekatan **Medallion Architecture**:
-Bronze Layer → Silver Layer → Gold Layer
+**Bronze Layer → Silver Layer → Gold Layer**
 Raw Data → Cleaned Data → Business-Ready Insight
 
 
