@@ -2,7 +2,7 @@
 Legalyze: Perancangan Data Warehouse untuk Mendukung Pengambilan Keputusan Firma Hukum
 
 <p align="center">
-  <img src="logo.png" alt="JustTech Logo" width="180"/>
+  <img src= JustTeach_Logo.png>
 </p>
 
 <h1 align="center">Legalyze</h1>
