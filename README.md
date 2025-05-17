@@ -26,7 +26,17 @@ Legalyze dikembangkan menggunakan pendekatan **Medallion Architecture** (Bronze 
 
 ---
 
-## 🎯 Tujuan Proyek
+## 📈 Analisis Kebutuhan Bisnis
+
+### 🔍 Masalah Bisnis
+Firma hukum di Indonesia menghadapi sejumlah tantangan operasional dan strategis yang menghambat efisiensi dan efektivitas pengambilan keputusan:
+
+- Belum tersedia sistem analitik terintegrasi untuk mengevaluasi performa pengacara, klasifikasi kasus, dan efisiensi penanganan perkara.
+- Proses pengambilan keputusan strategis masih bersifat subjektif dan tidak berbasis data historis.
+- Kebutuhan manajemen untuk mendapatkan laporan kinerja firma dalam format visual dan dinamis belum terpenuhi.
+
+
+###🎯 Tujuan Proyek
 
 - 📊 Menganalisis performa pengacara berdasarkan beban kerja dan tingkat kepuasan
 - 🔍 Mengidentifikasi tren jenis kasus dan waktu penyelesaiannya
