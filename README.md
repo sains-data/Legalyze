@@ -20,7 +20,7 @@
 
 ## 📘 Tentang Legalyze
 
-**Legalyze** adalah sistem data warehouse komprehensif untuk sektor hukum yang bertujuan memperkuat pengambilan keputusan berbasis data. Platform ini dirancang untuk mengolah berbagai sumber data hukum — mulai dari riwayat kasus, profil pengacara, hingga kepuasan klien — menjadi insight analitis yang mudah diakses melalui dashboard visual dan query multidimensi.
+**Legalyze** adalah sistem data warehouse komprehensif untuk sektor hukum yang bertujuan memperkuat pengambilan keputusan berbasis data. Platform ini dirancang untuk mengolah berbagai sumber data hukum mulai dari riwayat kasus, profil pengacara, hingga kepuasan klien menjadi insight analitis yang mudah diakses melalui dashboard visual dan query multidimensi.
 
 Legalyze dikembangkan menggunakan pendekatan **Medallion Architecture** (Bronze → Silver → Gold) serta model **Star Schema**, menjadikannya sistem yang scalable, modular, dan siap untuk eksplorasi lanjutan menggunakan *Business Intelligence Tools* atau bahkan *Machine Learning*.
 
