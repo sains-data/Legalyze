@@ -84,7 +84,7 @@ Alur data:
 
 | Misi | Deskripsi | Laporan |
 |------|-----------|---------|
-| **Misi 1** | Identifikasi masalah & desain konseptual | 📄 [Lihat](./Kelompok%2021(RC)_TugasMisi1_DW.pdf) |
+| **Misi 1** | Identifikasi masalah & desain konseptual | 📄 [Lihat](https://github.com/sains-data/Legalyze/blob/main/misi/Kelompok%2021(RC)_TugasMisi1_DW%20(1)%20(2).pdf) |
 | **Misi 2** | Desain & implementasi skema multidimensi | 📄 [Lihat](https://github.com/sains-data/Legalyze/blob/main/misi/Kelompok%2021(RC)_TugasMisi2_DW%20.pdf) |
 | **Misi 3** | Penerapan ETL pipeline & visualisasi | 📄 [Lihat](https://github.com/sains-data/Legalyze/blob/main/misi/Kelompok%2021(RC)_TugasMisi3_DW%20.pdf) |
 
