@@ -14,7 +14,7 @@ Legalyze: Perancangan Data Warehouse untuk Mendukung Pengambilan Keputusan Firma
 </p>
 
 <p align="center">
-  <em>Legal Tech meets Data Engineering — Transparansi, Efisiensi, dan Keadilan di Era Digital.</em>
+  <em>Legal Tech meets Data Engineering Transparansi, Efisiensi, dan Keadilan di Era Digital.</em>
 </p>
 
 ---
