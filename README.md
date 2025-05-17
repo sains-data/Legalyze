@@ -72,6 +72,8 @@ Alur data:
 Institut Teknologi Sumatera (ITERA)  
 Mata Kuliah: Data Warehouse (2024/2025)
 
+- GEDE MOENA – 121450014 – [GedeMoenaa](https://github.com/GedeMoenaa)
+
 ---
 
 
