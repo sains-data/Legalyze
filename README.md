@@ -71,13 +71,11 @@ Alur data:
 **JustTech** – Kelompok 21  
 Institut Teknologi Sumatera (ITERA)  
 Mata Kuliah: Data Warehouse (2024/2025)
-
-- Gede Moena (121450014) https://github.com/GedeMoenaa
-- Afifah Syaharani (121450097)  
-- Muhammad Regi Abdi Putra Amanta (122450031)  
-- Tria Yunanni (122450062)  
-- Ratu Keisha Jasmine Deanova (122450106)
-
+- [@gedemoena](https://github.com/gedemoena) (121450014)  
+- [@afifahsyah](https://github.com/afifahsyah) (121450097)  
+- [@regiabdi](https://github.com/regiabdi) (122450031)  
+- [@triayunanni](https://github.com/triayunanni) (122450062)  
+- [@ratukeisha](https://github.com/ratukeisha) (122450106)
 ---
 
 
