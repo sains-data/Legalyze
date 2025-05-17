@@ -106,4 +106,11 @@ Mata Kuliah: Data Warehouse (2024/2025)
 
 ---
 
+---
 
+## 📄 Refrensi
+
+
+---
+
+> 📨 Untuk kolaborasi, silakan hubungi kami melalui email atau LinkedIn yang tertera di profil GitHub masing-masing anggota.
