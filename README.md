@@ -32,7 +32,6 @@ Legalyze dikembangkan menggunakan pendekatan **Medallion Architecture** (Bronze 
 - 📊 Menganalisis performa pengacara berdasarkan beban kerja dan tingkat kepuasan
 - 🔍 Mengidentifikasi tren jenis kasus dan waktu penyelesaiannya
 - 💼 Mendukung keputusan manajerial firma hukum secara real-time
-- 📚 Menyediakan edukasi hukum berbasis data untuk masyarakat
 - 🧭 Menyokong regulator dalam pemantauan kepatuhan dan efisiensi layanan hukum
 
 ---
