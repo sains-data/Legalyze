@@ -110,7 +110,8 @@ Mata Kuliah: Data Warehouse (2024/2025)
 
 ## 📄 Refrensi
 
-
+[1] [2] D.-G. L. J.-S. P. a. J.-W. K. So-Hui Park, "A Survey of Research on Data Analytics-Based Legal Tech," Sustainbility, no. Legal Tech, 2021. 
+Available: https://www.mdpi.com/2071-1050/13/14/8085
 ---
 
 > 📨 Untuk kolaborasi, silakan hubungi kami melalui email atau LinkedIn yang tertera di profil GitHub masing-masing anggota.
