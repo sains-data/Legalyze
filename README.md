@@ -36,7 +36,7 @@ Firma hukum di Indonesia menghadapi sejumlah tantangan operasional dan strategis
 - Kebutuhan manajemen untuk mendapatkan laporan kinerja firma dalam format visual dan dinamis belum terpenuhi.
 
 
-###🎯 Tujuan Proyek
+### 🎯 Tujuan Proyek
 
 - 📊 Menganalisis performa pengacara berdasarkan beban kerja dan tingkat kepuasan
 - 🔍 Mengidentifikasi tren jenis kasus dan waktu penyelesaiannya
