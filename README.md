@@ -37,14 +37,18 @@ Legalyze dikembangkan menggunakan pendekatan **Medallion Architecture** (Bronze 
 
 ## 👥 Stakeholder Sistem
 
-| Stakeholder | Peran |
-|-------------|-------|
-| Pengacara | Analisis performa & manajemen kasus |
-| Manajer Firma | Perencanaan beban kerja & evaluasi SDM |
-| Legal Analyst | Klasifikasi dan pemetaan data kasus |
-| Tim IT | Pembangunan pipeline & sistem backend |
-| Eksekutif | Strategi firma berbasis insight historis |
-| Regulator & LSM | Pengawasan, kebijakan, dan edukasi hukum publik |
+| Stakeholder                          | Peran                                         | Tujuan                                                                 |
+|--------------------------------------|-----------------------------------------------|------------------------------------------------------------------------|
+| **Pengacara**                        | Pengguna utama DW untuk analisis kasus hukum  | Meningkatkan efisiensi pengambilan keputusan hukum berbasis data      |
+| **Manajer Firma Hukum**              | Pengelola strategi dan sumber daya firma      | Mengoptimalkan alokasi SDM & strategi firma                           |
+| **Tim IT**                           | Pengelola dan pemelihara sistem DW            | Menjamin ketersediaan, keamanan, dan efisiensi sistem                 |
+| **Investor / Sponsor Teknologi**     | Penyandang dana & mitra inovasi               | Mendorong inovasi hukum digital dan dampak sosial                     |
+| **Lembaga Swadaya Masyarakat (LSM)**| Mediator & edukator hukum masyarakat          | Menyediakan edukasi hukum berbasis data & relevan                     |
+| **Regulator & Instansi Pemerintah** | Pengawas & penentu arah kebijakan hukum       | Memonitor kepatuhan, privasi data, dan digitalisasi hukum             |
+| **Legal Analyst**                    | Analis data hukum & strategi                  | Mendapatkan insight hukum dari pola & tren data                       |
+| **Compliance Officer**              | Pengawas kepatuhan dan etika hukum            | Memantau potensi pelanggaran regulasi atau kode etik                  |
+| **Eksekutif / Partner Senior**       | Pengambil keputusan strategis firma           | Menyusun kebijakan berbasis insight dari dashboard dan laporan        |
+
 
 ---
 
