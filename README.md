@@ -72,11 +72,11 @@ Alur data:
 Institut Teknologi Sumatera (ITERA)  
 Mata Kuliah: Data Warehouse (2024/2025)
 
-- Gede Moena – 121450014 – [GedeMoenaa](https://github.com/GedeMoenaa)
-- Tria Yunanni – 122450062 – [triayunannii](https://github.com/triayunannii)
-- Afifah Syaharani  – 121450097 [syaharani097](https://github.com/syaharani097)
-- Ratu Keisha Jasmine Deanova – 122450106 [jasminednva27](https://github.com/jasminednva27)
-- Muhammad Regi Abdi Putri Amanta – 122450031
+- Gede Moena (121450014) [GedeMoenaa](https://github.com/GedeMoenaa)
+- Tria Yunanni (122450062) [triayunannii](https://github.com/triayunannii)
+- Afifah Syaharani (121450097) [syaharani097](https://github.com/syaharani097)
+- Ratu Keisha Jasmine Deanova (122450106) [jasminednva27](https://github.com/jasminednva27)
+- Muhammad Regi Abdi Putri Amanta (122450031)
 
 ---
 
