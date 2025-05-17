@@ -1,7 +1,7 @@
 # ⚖️Legalyze: Perancangan Data Warehouse untuk Mendukung Pengambilan Keputusan Firma Hukum
 
 <p align="center">
-  <img src= "JustTeach_Logo.png" alt="JustTeach Logo" width="500">
+  <img src= "gambar/JustTeach_Logo.png" alt="JustTeach Logo" width="500">
 </p>
 
 <h1 align="center">Legalyze</h1>
