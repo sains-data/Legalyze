@@ -108,10 +108,16 @@ Mata Kuliah: Data Warehouse (2024/2025)
 
 ---
 
-## 📄 Refrensi
+## 📄 Referensi
 
-[1] [2] D.-G. L. J.-S. P. a. J.-W. K. So-Hui Park, "A Survey of Research on Data Analytics-Based Legal Tech," Sustainbility, no. Legal Tech, 2021. 
+[1] D.-G. L. J.-S. P. a. J.-W. K. So-Hui Park, "A Survey of Research on Data Analytics-Based 
+Legal Tech," Sustainbility, no. Legal Tech, 2021. 
 Available: https://www.mdpi.com/2071-1050/13/14/8085
+
+[2] F. K. Fachri, "Esensi Legaltech di Tengah Gempuran Teknologi," HUKUMONLINE.COM, 10 11 2023. [Online]. 
+Available: https://www.hukumonline.com/berita/a/esensi-legaltech-di-tengah-gempuran-teknologi-lt654 
+d114f44d23/. [Accessed 21 2 2025].
+
 ---
 
 > 📨 Untuk kolaborasi, silakan hubungi kami melalui email atau LinkedIn yang tertera di profil GitHub masing-masing anggota.
