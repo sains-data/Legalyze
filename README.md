@@ -8,7 +8,7 @@
 <h3 align="center">Empowering Legal Intelligence through Data</h3>
 
 <p align="center">
-  <strong>JustTech</strong> Merupakan Sebuah Tim dari Kelompok 21 Matakuliah Pergudangan Data Program Studi Sains data Institut Teknologi Sumatera yang menghadirkan <strong>Legalyze</strong>, sebuah solusi Data Warehouse modern yang dirancang khusus untuk <br/>
+  <strong>JustTech</strong> Merupakan Sebuah Tim Kelompok 21 Matakuliah Pergudangan Data Program Studi Sains data Institut Teknologi Sumatera yang menghadirkan <strong>Legalyze</strong>, sebuah solusi Data Warehouse modern yang dirancang khusus untuk <br/>
   mentransformasi proses pengambilan keputusan dalam firma hukum dan memperluas edukasi hukum berbasis data di Indonesia.
 </p>
 
