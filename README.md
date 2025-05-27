@@ -98,7 +98,6 @@ Skema database Legalyze dibangun menggunakan pendekatan **Star Schema** dengan s
 | `id_klien`          | INT (FK)    | Referensi ke `Dim_Klien`                           |
 | `id_waktu`          | INT (FK)    | Referensi ke `Dim_Waktu`                           |
 | `id_jenis_kasus`    | INT (FK)    | Referensi ke `Dim_Jenis_Kasus`                     |
-| `id_lokasi`         | INT (FK)    | Referensi ke `Dim_Lokasi`                          |
 | `durasi_penyelesaian` | INT      | Lama penanganan kasus (dalam hari)                 |
 | `biaya_kasus`       | FLOAT       | Biaya yang dikeluarkan untuk kasus (dalam Rupiah)  |
 | `skor_kepuasan`     | INT         | Nilai kepuasan klien (skala 1–10)                  |
@@ -124,8 +123,6 @@ Skema database Legalyze dibangun menggunakan pendekatan **Star Schema** dengan s
 | `nama`            | TEXT      | Nama klien                       |
 | `usia`            | INT       | Usia klien                       |
 | `jenis_kelamin`   | TEXT      | Laki-laki / Perempuan            |
-| `kota`            | TEXT      | Kota domisili                    |
-| `provinsi`        | TEXT      | Provinsi domisili                |
 
 #### 🔹 `Dim_Waktu`
 
@@ -144,14 +141,6 @@ Skema database Legalyze dibangun menggunakan pendekatan **Star Schema** dengan s
 | `tipe_kasus`      | TEXT      | Kategori utama (Pidana, Perdata, dsb) |
 | `sub_kategori`    | TEXT      | Sub-kategori kasus                  |
 
-#### 🔹 `Dim_Lokasi`
-
-| Kolom          | Tipe Data | Deskripsi             |
-|----------------|-----------|-----------------------|
-| `id_lokasi`    | INT       | ID lokasi             |
-| `kota`         | TEXT      | Kota tempat kasus     |
-| `provinsi`     | TEXT      | Provinsi tempat kasus |
-
 ---
 
 ### 🔗 Relasi Antar Tabel
@@ -162,7 +151,6 @@ Relasi antar tabel dalam database Legalyze mengikuti pola **many-to-one**:
 - `Fakta_Kasus` → `Dim_Klien`
 - `Fakta_Kasus` → `Dim_Waktu`
 - `Fakta_Kasus` → `Dim_Jenis_Kasus`
-- `Fakta_Kasus` → `Dim_Lokasi`
 
 ---
 
