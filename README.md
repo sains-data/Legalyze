@@ -210,39 +210,6 @@ Tabel fakta menyimpan metrik kuantitatif sebagai dasar analisis:
 
 ---
 
-## 👨‍💻 Kontributor
-
-**JustTech** – Kelompok 21  
-Institut Teknologi Sumatera (ITERA)  
-Mata Kuliah: Data Warehouse (2024/2025)
-
-- Gede Moena (121450014) [GedeMoenaa](https://github.com/GedeMoenaa)
-- Tria Yunanni (122450062) [triayunannii](https://github.com/triayunannii)
-- Afifah Syaharani (121450097) [syaharani097](https://github.com/syaharani097)
-- Ratu Keisha Jasmine Deanova (122450106) [jasminednva27](https://github.com/jasminednva27)
-- Muhammad Regi Abdi Putra Amanta (122450031)
-
----
-
----
-## 📁 Repository Structure
-
-```bash
-data-warehouse-project/
-├── datasets/                  # Raw datasets used for the project
-├── gambar/                    # Project documentation and architecture details
-│   ├── JusTeach_Logo.png       # our Logo Team
-│   ├── Medallion Architecture # Project architectur
-├── scripts/                   # SQL&Python scripts for ETL and transformations
-│   
-├── tests/                     # Test scripts and validation files
-├── README.md                  # Project overview and instructions
-├── LICENSE                    # License information
-├── .gitignore                 # Files to be ignored by Git
-└── requirements.txt           # Dependencies for the project
-
----
-
 # ⚙️**Rencana Pengembangan**
 
 ###  **Short Term (3-6 bulan)**
@@ -283,3 +250,38 @@ data-warehouse-project/
    - **Manfaat**: Memungkinkan **Data Warehouse** untuk terhubung dengan sistem lain secara mudah dan memfasilitasi aliran data secara lebih efisien.
 
 ---
+
+
+---
+
+## 👨‍💻 Kontributor
+
+**JustTech** – Kelompok 21  
+Institut Teknologi Sumatera (ITERA)  
+Mata Kuliah: Data Warehouse (2024/2025)
+
+- Gede Moena (121450014) [GedeMoenaa](https://github.com/GedeMoenaa)
+- Tria Yunanni (122450062) [triayunannii](https://github.com/triayunannii)
+- Afifah Syaharani (121450097) [syaharani097](https://github.com/syaharani097)
+- Ratu Keisha Jasmine Deanova (122450106) [jasminednva27](https://github.com/jasminednva27)
+- Muhammad Regi Abdi Putra Amanta (122450031)
+
+---
+
+---
+## 📁 Repository Structure
+
+```bash
+data-warehouse-project/
+├── datasets/                  # Raw datasets used for the project
+├── gambar/                    # Project documentation and architecture details
+│   ├── JusTeach_Logo.png       # our Logo Team
+│   ├── Medallion Architecture # Project architectur
+├── scripts/                   # SQL&Python scripts for ETL and transformations
+│   
+├── tests/                     # Test scripts and validation files
+├── README.md                  # Project overview and instructions
+├── LICENSE                    # License information
+├── .gitignore                 # Files to be ignored by Git
+└── requirements.txt           # Dependencies for the project
+
