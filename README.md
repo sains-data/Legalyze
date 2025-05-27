@@ -85,6 +85,116 @@ Alur data:
 
 ---
 
+## 📊 Database Schema
+
+Skema database Legalyze dibangun menggunakan pendekatan **Star Schema** dengan satu tabel fakta utama yang terhubung ke lima tabel dimensi. Skema ini dirancang untuk mempermudah proses analisis multidimensi terhadap data kasus hukum, performa pengacara, dan kepuasan klien.
+
+### 🗃️ Tabel Fakta: `Fakta_Kasus`
+
+| Kolom               | Tipe Data   | Deskripsi                                           |
+|---------------------|-------------|-----------------------------------------------------|
+| `id_kasus`          | INT         | ID unik setiap kasus hukum                         |
+| `id_pengacara`      | INT (FK)    | Referensi ke `Dim_Pengacara`                       |
+| `id_klien`          | INT (FK)    | Referensi ke `Dim_Klien`                           |
+| `id_waktu`          | INT (FK)    | Referensi ke `Dim_Waktu`                           |
+| `id_jenis_kasus`    | INT (FK)    | Referensi ke `Dim_Jenis_Kasus`                     |
+| `id_lokasi`         | INT (FK)    | Referensi ke `Dim_Lokasi`                          |
+| `durasi_penyelesaian` | INT      | Lama penanganan kasus (dalam hari)                 |
+| `biaya_kasus`       | FLOAT       | Biaya yang dikeluarkan untuk kasus (dalam Rupiah)  |
+| `skor_kepuasan`     | INT         | Nilai kepuasan klien (skala 1–10)                  |
+
+---
+
+### 📁 Tabel Dimensi
+
+#### 🔹 `Dim_Pengacara`
+
+| Kolom             | Tipe Data | Deskripsi                                |
+|-------------------|-----------|------------------------------------------|
+| `id_pengacara`    | INT       | ID unik pengacara                        |
+| `nama`            | TEXT      | Nama pengacara                           |
+| `spesialisasi`    | TEXT      | Bidang hukum yang dikuasai               |
+| `pengalaman`      | INT       | Lama pengalaman kerja (tahun)            |
+
+#### 🔹 `Dim_Klien`
+
+| Kolom             | Tipe Data | Deskripsi                        |
+|-------------------|-----------|----------------------------------|
+| `id_klien`        | INT       | ID unik klien                    |
+| `nama`            | TEXT      | Nama klien                       |
+| `usia`            | INT       | Usia klien                       |
+| `jenis_kelamin`   | TEXT      | Laki-laki / Perempuan            |
+| `kota`            | TEXT      | Kota domisili                    |
+| `provinsi`        | TEXT      | Provinsi domisili                |
+
+#### 🔹 `Dim_Waktu`
+
+| Kolom          | Tipe Data | Deskripsi                      |
+|----------------|-----------|--------------------------------|
+| `id_waktu`     | INT       | ID waktu                       |
+| `tanggal`      | DATE      | Tanggal kasus ditangani        |
+| `bulan`        | TEXT      | Nama bulan                     |
+| `tahun`        | INT       | Tahun                          |
+
+#### 🔹 `Dim_Jenis_Kasus`
+
+| Kolom             | Tipe Data | Deskripsi                           |
+|-------------------|-----------|-------------------------------------|
+| `id_jenis_kasus`  | INT       | ID jenis kasus                      |
+| `tipe_kasus`      | TEXT      | Kategori utama (Pidana, Perdata, dsb) |
+| `sub_kategori`    | TEXT      | Sub-kategori kasus                  |
+
+#### 🔹 `Dim_Lokasi`
+
+| Kolom          | Tipe Data | Deskripsi             |
+|----------------|-----------|-----------------------|
+| `id_lokasi`    | INT       | ID lokasi             |
+| `kota`         | TEXT      | Kota tempat kasus     |
+| `provinsi`     | TEXT      | Provinsi tempat kasus |
+
+---
+
+### 🔗 Relasi Antar Tabel
+
+Relasi antar tabel dalam database Legalyze mengikuti pola **many-to-one**:
+
+- `Fakta_Kasus` → `Dim_Pengacara`
+- `Fakta_Kasus` → `Dim_Klien`
+- `Fakta_Kasus` → `Dim_Waktu`
+- `Fakta_Kasus` → `Dim_Jenis_Kasus`
+- `Fakta_Kasus` → `Dim_Lokasi`
+
+---
+
+### 📏 Ukuran (Measures)
+
+Tabel fakta menyimpan metrik kuantitatif sebagai dasar analisis:
+
+- `durasi_penyelesaian`: waktu penyelesaian kasus
+- `biaya_kasus`: total biaya hukum
+- `skor_kepuasan`: nilai kepuasan dari klien
+- `jumlah_kasus`: total kasus
+- `jumlah_kasus_per_tipe`: agregasi per kategori kasus
+- `rata-rata_durasi_per_tipe`: perbandingan efisiensi antar tipe kasus
+
+---
+
+### 🗂️ Hierarki Dimensi
+
+| Dimensi           | Hirarki                         |
+|-------------------|----------------------------------|
+| Waktu             | Tanggal → Bulan → Tahun          |
+| Klien             | Kota → Provinsi                  |
+| Jenis Kasus       | Tipe Kasus → Sub-Kategori        |
+| Pengacara         | Spesialisasi → Pengalaman (ops)  |
+
+---
+
+> 📌 Skema ini mendukung analitik OLAP (Online Analytical Processing) dan memungkinkan visualisasi multidimensi melalui dashboard Power BI atau tools serupa.
+
+
+---
+
 ## 🧪 Dokumentasi Proyek
 
 | Misi | Deskripsi | Laporan |
