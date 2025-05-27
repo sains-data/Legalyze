@@ -40,3 +40,5 @@ CREATE TABLE Dim_Pengacara (
     spesialisasi TEXT,
     pengalaman INT
 );
+
+
