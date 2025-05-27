@@ -64,7 +64,12 @@ Firma hukum di Indonesia menghadapi sejumlah tantangan operasional dan strategis
 
 ## 🧱 Arsitektur Sistem
 
-Legalyze mengimplementasikan pendekatan **Medallion Architecture**, yang terdiri dari beberapa lapisan berikut:
+Legalyze mengimplementasikan pendekatan **Medallion Architecture**, yang terdiri dari beberapa lapisan
+
+<p align="center">
+  <img src= "gambar/Medallion Architecture.png" alt="Medallion Architecture" width="1000">
+</p>
+
 
 - 🟫 **Bronze Layer**  
   Menyimpan *raw data* dari berbagai sumber.
