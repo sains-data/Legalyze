@@ -243,4 +243,43 @@ data-warehouse-project/
 
 ---
 
+# ⚙️**Rencana Pengembangan**
 
+###  **Short Term (3-6 bulan)**
+
+1. **ETL Automation**:
+   - **Apache Airflow** digunakan untuk otomatisasi proses ETL (Extract, Transform, Load) agar dapat dijalankan secara terjadwal dan terorganisir.
+   - **Manfaat**: Memastikan data yang masuk ke dalam data warehouse selalu terbarui secara otomatis dan tepat waktu.
+
+2. **BI Integration**:
+   - **Power BI** dan **Tableau** akan diintegrasikan untuk visualisasi data dan pembuatan dashboard interaktif.
+   - **Manfaat**: Memudahkan manajemen dan pengacara dalam menganalisis data kasus, performa pengacara, dan keuangan secara visual.
+
+3. **Security Enhancement**:
+   - Mengimplementasikan **encryption** untuk data sensitif, seperti informasi klien dan hasil kasus.
+   - Menambahkan **audit trails** untuk memastikan jejak audit yang jelas dan kontrol akses yang aman.
+   - **Manfaat**: Meningkatkan keamanan dan menjaga kerahasiaan data.
+
+4. **Performance Tuning**:
+   - Melakukan **query optimization** dan menerapkan **caching strategies** untuk meningkatkan performa akses data.
+   - **Manfaat**: Meningkatkan kecepatan query dan efisiensi dalam pengolahan data di **Data Warehouse**.
+
+### **Long Term (6-12 bulan)**
+
+1. **Machine Learning**:
+   - Mengimplementasikan **predictive analytics** untuk melakukan **forecasting** dan prediksi terkait kinerja kasus dan pengacara.
+   - **Manfaat**: Membantu firma hukum merencanakan dan mengalokasikan sumber daya dengan lebih baik berdasarkan data historis.
+
+2. **Real-time Processing**:
+   - Menggunakan **Apache Kafka** untuk melakukan **streaming data** secara real-time dari sistem manajemen kasus dan sistem keuangan.
+   - **Manfaat**: Memungkinkan pengambilan keputusan berbasis data secara langsung dan real-time, mempercepat respon terhadap kasus yang sedang berjalan.
+
+3. **Data Lake Integration**:
+   - Mengintegrasikan **Data Lake** sebagai arsitektur hibrid untuk menangani big data yang lebih besar dan lebih kompleks, memungkinkan analisis data lebih lanjut.
+   - **Manfaat**: Menyediakan penyimpanan data yang lebih fleksibel dan scalable untuk analisis lebih mendalam.
+
+4. **API Development**:
+   - Mengembangkan **REST APIs** untuk integrasi dengan sistem eksternal, seperti aplikasi pihak ketiga, untuk memungkinkan pertukaran data secara lebih fleksibel.
+   - **Manfaat**: Memungkinkan **Data Warehouse** untuk terhubung dengan sistem lain secara mudah dan memfasilitasi aliran data secara lebih efisien.
+
+---
