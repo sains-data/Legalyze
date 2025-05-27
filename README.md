@@ -191,6 +191,10 @@ Tabel fakta menyimpan metrik kuantitatif sebagai dasar analisis:
 | Pengacara         | Spesialisasi → Pengalaman (ops)  |
 
 ---
+## Implenentasi
+
+### ETL 
+![Deskripsi Gambar](https://drive.google.com/uc?export=view&id=1TioEnGhKj_0zkO3vLkuzzvqaCy_Y4A4Z)
 
 > 📌 Skema ini mendukung analitik OLAP (Online Analytical Processing) dan memungkinkan visualisasi multidimensi melalui dashboard Power BI atau tools serupa.
 
