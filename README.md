@@ -96,6 +96,25 @@ Alur data:
 ---
 
 ---
+## 📁 Repository Structure
+
+```bash
+data-warehouse-project/
+├── datasets/                  # Raw datasets used for the project
+├── gambar/                    # Project documentation and architecture details
+│   ├── JusTeach_Logo.png       # our Logo Team
+│   ├── Medallion Architecture # Project architectur
+├── scripts/                   # SQL&Python scripts for ETL and transformations
+│   
+├── tests/                     # Test scripts and validation files
+├── README.md                  # Project overview and instructions
+├── LICENSE                    # License information
+├── .gitignore                 # Files to be ignored by Git
+└── requirements.txt           # Dependencies for the project
+
+---
+
+---
 
 ## 👨‍💻 Kontributor
 
