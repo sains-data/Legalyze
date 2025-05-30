@@ -1,0 +1,51 @@
+id_kasus,id_klien,id_pengacara,id_waktu,jenis_kasus,sub_jenis,teks_asli,durasi_hari,biaya_kasus,skor_kepuasan,id_lokasi
+1,158,208,397,Ketenagakerjaan,PHK Sepihak,Perkara ini melibatkan PHK Sepihak dengan nilai sengketa mencapai Rp 99682738.,88,16287597,1,7
+2,164,211,324,Ketenagakerjaan,PHK Sepihak,Sidang kasus PHK Sepihak telah ditunda karena ketidakhadiran saksi kunci di Singkawang.,55,14383781,10,4
+3,190,209,372,Pidana,Penipuan,"Perselisihan terjadi antara dua pihak mengenai Penipuan, dan proses mediasi sedang berlangsung.",34,18637464,8,8
+4,172,208,389,Ketenagakerjaan,PHK Sepihak,"Dalam kasus PHK Sepihak, terdakwa dituntut dengan hukuman maksimal menurut KUHP.",101,5578587,2,5
+5,138,208,352,Perdata,Wanprestasi,Sidang kasus Wanprestasi telah ditunda karena ketidakhadiran saksi kunci di Bau-Bau.,94,20879986,9,7
+6,168,212,355,Perceraian,Cerai Talak,Firma hukum menerima kasus baru terkait Cerai Talak dengan durasi penanganan lebih dari 99 hari.,99,15288560,5,10
+7,130,204,393,Perdata,Wanprestasi,Pengacara menyatakan bahwa tidak ada cukup bukti dalam kasus Wanprestasi.,25,11427048,4,3
+8,195,216,336,Perceraian,Cerai Gugat,Firma hukum menerima kasus baru terkait Cerai Gugat dengan durasi penanganan lebih dari 116 hari.,116,12633068,6,7
+9,123,210,302,Perdata,Sengketa Tanah,Firma hukum menerima kasus baru terkait Sengketa Tanah dengan durasi penanganan lebih dari 15 hari.,15,9237236,8,8
+10,114,201,374,Perceraian,Cerai Gugat,Sidang kasus Cerai Gugat telah ditunda karena ketidakhadiran saksi kunci di Banda Aceh.,71,11186218,1,5
+11,133,216,315,Pidana,Penggelapan,Terdakwa diduga melakukan Penggelapan terhadap korban di wilayah Mojokerto.,72,10091113,3,4
+12,173,210,311,Perdata,Wanprestasi,"Perselisihan terjadi antara dua pihak mengenai Wanprestasi, dan proses mediasi sedang berlangsung.",81,22534624,7,8
+13,158,215,339,Hak Cipta,Plagiarisme,Terdakwa diduga melakukan Plagiarisme terhadap korban di wilayah Tanjungbalai.,82,8329726,4,8
+14,181,207,334,Pidana,Penggelapan,Gugatan perdata diajukan oleh klien terkait kasus Penggelapan yang terjadi pada tahun 2019.,40,10252363,1,3
+15,153,215,389,Ketenagakerjaan,PHK Sepihak,Firma hukum menerima kasus baru terkait PHK Sepihak dengan durasi penanganan lebih dari 14 hari.,14,14486454,8,6
+16,110,208,334,Perdata,Wanprestasi,"Perselisihan terjadi antara dua pihak mengenai Wanprestasi, dan proses mediasi sedang berlangsung.",24,9999254,5,5
+17,119,203,308,Perdata,Sengketa Tanah,Firma hukum menerima kasus baru terkait Sengketa Tanah dengan durasi penanganan lebih dari 49 hari.,49,19735544,2,2
+18,160,210,390,Hak Cipta,Plagiarisme,"Dalam kasus Plagiarisme, terdakwa dituntut dengan hukuman maksimal menurut KUHP.",74,19688750,2,8
+19,177,202,356,Perceraian,Cerai Talak,Gugatan perdata diajukan oleh klien terkait kasus Cerai Talak yang terjadi pada tahun 2022.,42,12681428,10,6
+20,176,201,398,Perceraian,Cerai Gugat,"Dalam kasus Cerai Gugat, terdakwa dituntut dengan hukuman maksimal menurut KUHP.",15,22413536,8,2
+21,136,206,375,Hak Cipta,Plagiarisme,Gugatan perdata diajukan oleh klien terkait kasus Plagiarisme yang terjadi pada tahun 2023.,114,20770931,6,5
+22,153,211,342,Pidana,Penggelapan,Perkara ini melibatkan Penggelapan dengan nilai sengketa mencapai Rp 54265498.,30,21625181,5,1
+23,185,213,398,Pidana,Penipuan,Firma hukum menerima kasus baru terkait Penipuan dengan durasi penanganan lebih dari 21 hari.,21,15847268,2,10
+24,199,213,366,Pidana,Penipuan,Perkara ini melibatkan Penipuan dengan nilai sengketa mencapai Rp 72005415.,79,6818787,4,6
+25,167,212,380,Ketenagakerjaan,PHK Sepihak,"Perselisihan terjadi antara dua pihak mengenai PHK Sepihak, dan proses mediasi sedang berlangsung.",66,13960920,9,9
+26,117,210,357,Ketenagakerjaan,PHK Sepihak,"Perselisihan terjadi antara dua pihak mengenai PHK Sepihak, dan proses mediasi sedang berlangsung.",13,10314289,5,1
+27,171,201,371,Hak Cipta,Plagiarisme,"Dalam kasus Plagiarisme, terdakwa dituntut dengan hukuman maksimal menurut KUHP.",38,8941509,3,10
+28,164,210,366,Perceraian,Cerai Gugat,"Dalam kasus Cerai Gugat, terdakwa dituntut dengan hukuman maksimal menurut KUHP.",116,13178252,8,3
+29,171,205,350,Perdata,Wanprestasi,Gugatan perdata diajukan oleh klien terkait kasus Wanprestasi yang terjadi pada tahun 2022.,75,14269324,7,7
+30,144,217,335,Pidana,Penipuan,"Dalam kasus Penipuan, terdakwa dituntut dengan hukuman maksimal menurut KUHP.",102,9986034,8,4
+31,169,216,345,Perceraian,Cerai Talak,Perkara ini melibatkan Cerai Talak dengan nilai sengketa mencapai Rp 82937948.,107,20278829,6,9
+32,125,208,374,Hak Cipta,Plagiarisme,Terdakwa diduga melakukan Plagiarisme terhadap korban di wilayah Magelang.,119,15676225,8,3
+33,191,213,350,Perdata,Sengketa Tanah,Sidang kasus Sengketa Tanah telah ditunda karena ketidakhadiran saksi kunci di Sabang.,14,8367677,8,5
+34,113,217,359,Pidana,Penipuan,Pengacara menyatakan bahwa tidak ada cukup bukti dalam kasus Penipuan.,28,7510819,8,3
+35,134,211,380,Hak Cipta,Plagiarisme,Perkara ini melibatkan Plagiarisme dengan nilai sengketa mencapai Rp 54099326.,20,15625385,8,7
+36,170,202,380,Pidana,Penggelapan,"Perselisihan terjadi antara dua pihak mengenai Penggelapan, dan proses mediasi sedang berlangsung.",90,8032627,7,5
+37,113,204,357,Perdata,Sengketa Tanah,Terdakwa diduga melakukan Sengketa Tanah terhadap korban di wilayah Gorontalo.,48,15884207,1,9
+38,138,212,348,Hak Cipta,Plagiarisme,Perkara ini melibatkan Plagiarisme dengan nilai sengketa mencapai Rp 81291936.,41,23989394,3,7
+39,122,206,311,Hak Cipta,Plagiarisme,"Dalam kasus Plagiarisme, terdakwa dituntut dengan hukuman maksimal menurut KUHP.",97,24567506,3,2
+40,130,215,382,Perceraian,Cerai Gugat,Terdakwa diduga melakukan Cerai Gugat terhadap korban di wilayah Samarinda.,42,20611308,5,4
+41,187,218,321,Pidana,Penggelapan,Firma hukum menerima kasus baru terkait Penggelapan dengan durasi penanganan lebih dari 54 hari.,54,19237445,5,9
+42,159,210,326,Hak Cipta,Plagiarisme,"Perselisihan terjadi antara dua pihak mengenai Plagiarisme, dan proses mediasi sedang berlangsung.",71,17796462,10,2
+43,146,219,338,Perceraian,Cerai Gugat,Perkara ini melibatkan Cerai Gugat dengan nilai sengketa mencapai Rp 98346110.,116,14210033,1,10
+44,173,202,378,Ketenagakerjaan,PHK Sepihak,Sidang kasus PHK Sepihak telah ditunda karena ketidakhadiran saksi kunci di Tomohon.,46,12348572,4,9
+45,180,209,387,Perdata,Sengketa Tanah,Terdakwa diduga melakukan Sengketa Tanah terhadap korban di wilayah Banjar.,22,15366067,8,10
+46,105,219,347,Perdata,Sengketa Tanah,Perkara ini melibatkan Sengketa Tanah dengan nilai sengketa mencapai Rp 53851498.,47,10893502,4,5
+47,117,218,347,Perceraian,Cerai Gugat,"Dalam kasus Cerai Gugat, terdakwa dituntut dengan hukuman maksimal menurut KUHP.",31,14903303,6,2
+48,115,215,310,Perdata,Sengketa Tanah,Sidang kasus Sengketa Tanah telah ditunda karena ketidakhadiran saksi kunci di Pasuruan.,38,8030061,7,4
+49,102,209,369,Pidana,Penggelapan,Perkara ini melibatkan Penggelapan dengan nilai sengketa mencapai Rp 45186708.,57,17464587,2,7
+50,187,208,361,Pidana,Penipuan,"Perselisihan terjadi antara dua pihak mengenai Penipuan, dan proses mediasi sedang berlangsung.",81,7121211,8,8
