@@ -191,7 +191,7 @@ Tabel fakta menyimpan metrik kuantitatif sebagai dasar analisis:
 | Pengacara         | Spesialisasi → Pengalaman (ops)  |
 
 ---
-## Implenentasi
+## Implementasi
 
 ### ETL 
 ![Deskripsi Gambar](https://drive.google.com/uc?export=view&id=1TioEnGhKj_0zkO3vLkuzzvqaCy_Y4A4Z)
